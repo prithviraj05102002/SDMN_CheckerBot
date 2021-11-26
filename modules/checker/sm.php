@@ -141,7 +141,7 @@ Time -» <b>$time</b><b>s</b>
 <b>----------------------------</b>
 
 <b>Checked By <a href='tg://user?id=$userId'>$firstname</a></b>
-<b>Bot By: <a href='t.me/ninjanaveen'>ɴɪɴᴊᴀ ɴᴀᴠᴇᴇɴ</a></b>",
+<b>Bot By: <a href='t.me/TechnicalSacred'>Technicalsacred</a></b>",
                     'parse_mode'=>'html',
                     'disable_web_page_preview'=>'true'
                     
@@ -212,7 +212,7 @@ Time -» <b>$time</b><b>s</b>
 <b>----------------------------</b>
 
 <b>Checked By <a href='tg://user?id=$userId'>$firstname</a></b>
-<b>Bot By: <a href='t.me/ninjanaveen'>ɴɪɴᴊᴀ ɴᴀᴠᴇᴇɴ</a></b>",
+<b>Bot By: <a href='t.me/TechnicalSacred'>Technicalsacred</a></b>",
                 'parse_mode'=>'html',
                 'disable_web_page_preview'=>'true'
                 
@@ -241,7 +241,7 @@ Time -» <b>$time</b><b>s</b>
 <b>----------------------------</b>
 
 <b>Checked By <a href='tg://user?id=$userId'>$firstname</a></b>
-<b>Bot By: <a href='t.me/ninjanaveen'>ɴɪɴᴊᴀ ɴᴀᴠᴇᴇɴ</a></b>",
+<b>Bot By: <a href='t.me/TechnicalSacred'>Technicalsacred</a></b>",
                 'parse_mode'=>'html',
                 'disable_web_page_preview'=>'true'
                 
@@ -251,7 +251,7 @@ Time -» <b>$time</b><b>s</b>
             bot('editMessageText',[
                 'chat_id'=>$chat_id,
                 'message_id'=>$messageidtoedit,
-                'text'=>"<b>Cool! Fucking provide a CC to Check!!</b>",
+                'text'=>"<b>Cool! Provide a CC to Check!!</b>",
                 'parse_mode'=>'html',
                 'disable_web_page_preview'=>'true'
                 
